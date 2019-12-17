@@ -1,7 +1,6 @@
 #include "stdio.h"
 void display(void);
 
-
 void main(void)
 {
     printf("Use git");
