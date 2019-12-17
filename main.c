@@ -8,7 +8,5 @@ void main(void)
 
 void display(void)
 {
-
-    return;
 }
 
